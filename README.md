@@ -22,12 +22,6 @@ Also send the bugs of the mod in the server if you find any.
 
 
 
-## **💻|Youtube**
-
-Please consider subscribing as we make free among us maps.
-https://www.youtube.com/channel/UClIEFoSUvua3-mesNM639sA?sub_confirmation=1
-
-
 ## **🙏🏽|Credits**
 
 Texture by RonPepperMD
