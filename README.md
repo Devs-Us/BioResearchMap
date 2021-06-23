@@ -5,7 +5,7 @@
 ![military_bio_research_base__sub_level_4_by_ronpeppermd_de25ler](https://user-images.githubusercontent.com/82299910/118365274-99de6c00-b5b9-11eb-8684-fc47fd516543.jpg)
 ## **ℹ|About**
 
-This is a custom map of Bio Research Station with cutom tasks. This map is created for Among Us v2021.4.14s. You can also use it for Among Us v2021.4.12s by changing the reactor. This is a custom made map. In here there are new tasks, Airship tasks, Mira HQ tasks, Polus tasks, Skeld tasks.
+This is a custom map of Bio Research Station with cutom tasks. This map is created for Among Us v2021.6.15. This is a custom made map. In here there are new tasks, Airship tasks, Mira HQ tasks, Polus tasks, Skeld tasks.
 
 
 
@@ -24,8 +24,8 @@ Also send the bugs of the mod in the server if you find any.
 
 ## **🙏🏽|Credits**
 
-Texture by RonPepperMD
-Made with Level Imposer And coded with Bepinex and Reactor
+Texture by RonPepperMD\
+We're using [LevelImpostor's fork](https://github.com/Devs-Us/LevelImposter)
 
 ## **🌟|Leave a star**
 
