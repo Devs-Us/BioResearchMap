@@ -30,4 +30,6 @@ We're using [LevelImpostor's fork](https://github.com/Devs-Us/LevelImposter)
 ## **🌟|Leave a star**
 
 Please leave a star if you like it.
-
+#
+<p align="center">This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.</p>
+<p align="center">© Innersloth LLC.</p>
