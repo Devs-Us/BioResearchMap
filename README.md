@@ -9,7 +9,7 @@ This is a custom map of Bio Research Station with cutom tasks. This map is creat
 
 
 
-## **⏬| Installation**
+## **⏬ | Installation**
 
 Simply unzip the file and add the those files in Among Us root directory folder. (The file path is usually Steamlibrary > steamapps > common > Among Us.)
 
